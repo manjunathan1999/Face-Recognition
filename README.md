@@ -9,7 +9,8 @@ This project is a face recognition system that uses a webcam to capture video an
 
 ## Requirements
 To run this project, you will need the following:
-Install cmake (cmake.org) ## Required
+
+Install cmake (cmake.org)
 
     pip install -r requirements.txt
 
@@ -18,6 +19,7 @@ Install cmake (cmake.org) ## Required
 2. To use the face recognition system, run the following command:
 
     python app.py
+
 3. The system will start capturing video from the webcam and display the video with detected faces highlighted in real-time.
 
 
